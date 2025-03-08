@@ -139,16 +139,6 @@ const itemData = [
     </>,  
   },
   {
-    img: img3,
-    title: 'Ela que nem se perde na própria idade',
-    text: <>
-      <p>Nós temos 3 anos de diferença né?</p>
-      <p>- Não, nós temos 4.</p>
-      <p>Mas esse ano eu faço 35...</p>
-      <p>- Então Stell...</p>
-    </>,    
-  },
-  {
     img: img4,
     title: 'Ela que é super criativa',
     text: <>
@@ -193,6 +183,16 @@ const itemData = [
       <p>Mas quem disse que a vida precisa ser vivida correndo?</p>
       <p>Gosto muito do jeito que leva a vida. Sem pressa, aproveitando os detalhes e vivendo os momentos do seu jeito.</p>
     </>,  
+  },
+  {
+    img: img3,
+    title: 'Ela que nem se perde na própria idade',
+    text: <>
+      <p>Nós temos 3 anos de diferença né?</p>
+      <p>- Não, nós temos 4.</p>
+      <p>Mas esse ano eu faço 35...</p>
+      <p>- Então Stell...</p>
+    </>,    
   },
   {
     img: img9,
