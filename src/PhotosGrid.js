@@ -25,6 +25,9 @@ const style = {
   bgcolor: 'background.paper',
   border: '2px solid #000',
   boxShadow: 24,
+  overflow: 'auto',
+  maxHeight: '100%',
+  maxWidth: '100%',
   pt: 2,
   px: 4,
   pb: 3,
@@ -42,7 +45,13 @@ export default function PhotosGrid() {
 
   return (
     <Box sx={{ p: 2 }}>
-      <Masonry columns={3} spacing={2}>
+      <Masonry columns={{
+        xs: 1,
+        sm: 2,
+        md: 3,
+        lg: 4,
+        xl: 5,
+      }} spacing={2}>
         {itemData.map((item, index) => (
           <div key={index} style={{
             textAlign: 'center',
@@ -53,6 +62,8 @@ export default function PhotosGrid() {
               style={{
                 padding: '5px',
               }}
+              
+              onClick={() => handleOpen(index)}
             >
               {item.title}
             </div>
@@ -184,13 +195,6 @@ const itemData = [
     </>,  
   },
   {
-    img: img8,
-    title: 'Ela que quase não gosta de fazer pose',
-    text: <>
-      <p>Ela que é a viciada dos boomerangs e adora fotinhos com pose.</p>
-    </>,   
-  },
-  {
     img: img9,
     title: 'Ela que quase não gosta do caos',
     text: <>
@@ -207,5 +211,12 @@ const itemData = [
       <p>O cuidado que tem com o que faz, independe pra que seja</p>
       <p>Não tem ideia do quanto isso me encanta.</p>
     </>,    
+  },
+  {
+    img: img8,
+    title: 'Ela que quase não gosta de fazer pose',
+    text: <>
+      <p>Ela que é a viciada dos boomerangs e adora fotinhos com pose.</p>
+    </>,   
   },
 ];
