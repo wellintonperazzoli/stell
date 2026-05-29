@@ -12,10 +12,12 @@ const style = {
   top: '50%',
   left: '50%',
   transform: 'translate(-50%, -50%)',
-  width: { xs: '90%', sm: '80%', md: '60%' },
+  width: { xs: '95%', sm: '80%', md: '60%' },
   maxWidth: '600px',
+  maxHeight: '90vh',
+  overflowY: 'auto',
   outline: 'none',
-  p: { xs: 3, md: 4 },
+  p: { xs: 2, sm: 3, md: 4 },
 };
 
 export default function PhotosGrid() {
@@ -85,7 +87,7 @@ export default function PhotosGrid() {
                   {item.text}
                 </Typography>
 
-                <Box sx={{ overflow: 'hidden', borderRadius: '12px', boxShadow: '0 4px 15px rgba(0,0,0,0.15)' }}>
+                <Box sx={{ overflow: 'hidden', borderRadius: '12px', boxShadow: '0 4px 15px rgba(0,0,0,0.15)', display: 'flex', justifyContent: 'center' }}>
                   <img
                     srcSet={`${item.img}`}
                     src={`${item.img}`}
@@ -93,8 +95,9 @@ export default function PhotosGrid() {
                     loading="lazy"
                     style={{
                       display: 'block',
-                      maxHeight: '60vh',
+                      maxHeight: '50vh',
                       maxWidth: '100%',
+                      objectFit: 'contain',
                       margin: '0 auto',
                     }}
                   />
