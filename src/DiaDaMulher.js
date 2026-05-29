@@ -37,7 +37,7 @@ const DiaDaMulher = () => {
                 <Typography variant="h6" component="p" className="subtitle-text" sx={{ maxWidth: '800px', margin: '0 auto', mt: 3 }}>
                     E por meio desse compilado brega, quero demonstrar o quanto você é especial para mim.
                     <br /><br />
-                    Obrigado por estar ao meu lado nesses 10 anos, nos momentos bons e ruins.
+                    Obrigado por estar ao meu lado nesses 10+ anos, nos momentos bons e ruins.
                     Quero ver você sorrindo sempre, pois é o que me faz feliz.
                     <br /><br />
                     Bora pra cima! 💜
@@ -47,7 +47,7 @@ const DiaDaMulher = () => {
             <PhotosGrid />
             
             <Box sx={{ textAlign: 'center' }} className="footer-text">
-                08/03/2025
+                {"<3"}
             </Box>
         </Box>
     )

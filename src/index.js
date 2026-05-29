@@ -6,6 +6,7 @@ import reportWebVitals from './reportWebVitals';
 import DiaDaMulher from './DiaDaMulher';
 import DiaDosNamorados2026 from './DiaDosNamorados2026';
 import Home from './Home';
+import WSTimeline from './WSTimeline';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -15,6 +16,7 @@ root.render(
         <Route path="/" element={<Home />} />
         <Route path="/diadamulher" element={<DiaDaMulher />} />
         <Route path="/diadosnamorados2026" element={<DiaDosNamorados2026 />} />
+        <Route path="/timeline" element={<WSTimeline />} />
       </Routes>
     </BrowserRouter>
   </React.StrictMode>

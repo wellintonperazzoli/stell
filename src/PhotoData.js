@@ -29,219 +29,208 @@ export const photoData = [
     img: img1,
     title: 'Ela que quase não adora uma arte',
     text: <>
-      <p>A cara de arteira não é só cara! Adora roles aleatórios e atazanar os outros.</p>
-      <p>Ritmo gostoso de aproveitar o que é bom da vida sem se preocupar com os outros.</p>
-      <p>Ideal para taekwondozistas e judóquistas.</p>
+      A cara de arteira não é só cara! Adora roles aleatórios e atazanar os outros.
+      Ritmo gostoso de aproveitar o que é bom da vida sem se preocupar com os outros.
+      Ideal para taekwondozistas e judóquistas.
     </>,
   },
   {
     img: img2,
     title: 'Ela que não tem um olhar assassino',
     text: <>
-      <p>Vem cá...</p>
-      <p>Vem...</p>
-      <p>Deixa eu te contar uma coisinha...</p>
+      Vem cá...
+      Vem...
+      Deixa eu te contar uma coisinha...
     </>,  
   },
   {
     img: img4,
     title: 'Ela que é super criativa',
     text: <>
-      <p>Bora montar máscaras de carnaval?</p>
-      <p>Bora num parque de cama elástica?</p>
-      <p>Bora para uma cabana aleatória no meio do nada?</p>
-      <p>Bora pra um resort?</p>
-      <p>Bora no parque de diversão?</p>
-      <p>Bora andar bebendo por aí?</p>
-      <p>Tem algum passeio com voce que é ruim?</p>
+      Bora montar máscaras de carnaval?
+      Bora num parque de cama elástica?
+      Bora para uma cabana aleatória no meio do nada?
+      Bora pra um resort?
+      Bora no parque de diversão?
+      Bora andar bebendo por aí?
+      Tem algum passeio com voce que é ruim?
     </>, 
   },
   {
     img: img5,
     title: 'Ela que proporciona os melhores momentos',
     text: <>
-      <p>Sou muito feliz com sua companhia.</p>
-      <p>Sou muito feliz com nossa sincronia.</p>
-      <p>Sou muito feliz com nossas conversas.</p>
-      <p>Sou muito feliz com a nossa química.</p>
-      <p>Sou muito feliz com nossas risadas.</p>
-      <p>Sou muito feliz com nossos momentos de silêncio.</p>
-      <p>Sou muito feliz com nossos momentos de diversão.</p>
-      <p>Sou muito feliz com nossos momentos de carinho.</p>
-      <p>Sou muito feliz com nós.</p>
+      Sou muito feliz com sua companhia.
+      Sou muito feliz com nossa sincronia.
+      Sou muito feliz com nossas conversas.
+      Sou muito feliz com a nossa química.
+      Sou muito feliz com nossas risadas.
+      Sou muito feliz com nossos momentos de silêncio.
+      Sou muito feliz com nossos momentos de diversão.
+      Sou muito feliz com nossos momentos de carinho.
+      Sou muito feliz com nós.
     </>,   
   },
   {
     img: img6,
     title: 'Ela que adora pegar tétano',
     text: <>
-      <p>Bora no parque de diversão nesses brinquedos caindo aos pedaços pegar tétano e depois ir na balada?</p>
-      <p>- BORA</p>
+      Bora no parque de diversão nesses brinquedos caindo aos pedaços pegar tétano e depois ir na balada?
+      - BORA
     </>,   
   },
   {
     img: img7,
     title: 'Ela que quase não gosta de dormir',
     text: <>
-      <p>Gosta de dormir mais que 3 pessoas normais juntas? - Sim</p>
-      <p>Anda tão lento que parece estar se arrastando? - Também</p>
-      <p>Mas quem disse que a vida precisa ser vivida correndo?</p>
-      <p>Gosto muito do jeito que leva a vida. Sem pressa, aproveitando os detalhes e vivendo os momentos do seu jeito.</p>
+      Gosta de dormir mais que 3 pessoas normais juntas? - Sim
+      Anda tão lento que parece estar se arrastando? - Também
+      Mas quem disse que a vida precisa ser vivida correndo?
+      Gosto muito do jeito que leva a vida. Sem pressa, aproveitando os detalhes e vivendo os momentos do seu jeito.
     </>,  
   },
   {
     img: img3,
     title: 'Ela que nem se perde na própria idade',
     text: <>
-      <p>Nós temos 3 anos de diferença né?</p>
-      <p>- Não, nós temos 4.</p>
-      <p>Mas esse ano eu faço 35...</p>
-      <p>- Então Stell...</p>
+      Nós temos 3 anos de diferença né?
+      - Não, nós temos 4.
+      Mas esse ano eu faço 35...
+      - Então Stell...
     </>,    
   },
   {
     img: img9,
     title: 'Ela que quase não gosta do caos',
     text: <>
-      <p>Bora beber sem comer nada porque é assim que eu gosto do caos.</p>
-      <p>MUAHAHAHAHA</p>
+      Bora beber sem comer nada porque é assim que eu gosto do caos.
+      MUAHAHAHAHA
     </>,     
   },
   {
     img: img10,
     title: 'Ela que quase não gosta de usar da criatividade',
     text: <>
-      <p>Máquiagem, desenho, pintura...</p>
-      <p>A maneira que repara no detalhe coisas</p>
-      <p>O cuidado que tem com o que faz, independe pra que seja</p>
-      <p>Não tem ideia do quanto isso me encanta.</p>
+      Máquiagem, desenho, pintura...
+      A maneira que repara no detalhe coisas
+      O cuidado que tem com o que faz, independe pra que seja
+      Não tem ideia do quanto isso me encanta.
     </>,    
   },
   {
     img: img8,
     title: 'Ela que quase não gosta de fazer pose',
     text: <>
-      <p>Ela que é a viciada dos boomerangs e adora fotinhos com pose.</p>
+      Ela que é a viciada dos boomerangs e adora fotinhos com pose.
     </>,   
   },
   {
     img: img11,
-    title: 'Ela que ilumina os dias',
+    title: 'Ela que é muito radical',
     text: <>
-      <p>Um sorriso seu basta para melhorar o pior dos meus dias.</p>
-      <p>A luz que você traz pra minha vida não tem preço.</p>
+      Desde parques de diversões até skydiving indoor. Porque não?
     </>,   
   },
   {
     img: img12,
     title: 'Ela que é minha parceira sempre',
     text: <>
-      <p>Desde as maiores aventuras até ficar no sofá sem fazer nada.</p>
-      <p>O importante de verdade é estar com você, independente de onde.</p>
+      Desde as maiores aventuras até ficar no sofá sem fazer nada.
+      O importante de verdade é estar com você, independente de onde.
     </>,   
   },
   {
     img: img13,
-    title: 'Ela que tem o melhor abraço',
+    title: 'Ela que está nas minhas melhores fotos',
     text: <>
-      <p>O lugar mais seguro e quentinho do mundo inteiro.</p>
-      <p>É o lugar pra onde eu sempre quero voltar no final do dia.</p>
+      Só trazendo mais charme para as fotos. Como pode?
     </>,   
   },
   {
     img: img14,
     title: 'Ela que torna tudo mais colorido',
     text: <>
-      <p>Com você a vida não tem filtros...</p>
-      <p>A realidade é muito melhor, mais leve e muito mais bonita.</p>
+      Com você a vida não tem filtros...
+      A realidade é muito melhor, mais leve e muito mais bonita.
     </>,   
   },
   {
     img: img15,
-    title: 'Ela que me encanta nos detalhes',
+    title: 'Não tem tempo ruim',
     text: <>
-      <p>Cada mania, cada expressão, cada jeitinho seu...</p>
-      <p>Tudo me faz te amar um pouquinho (ou muito) mais todo dia.</p>
+      Faça calor, faça frio, ou faça salame de javali. É sempre melhor contigo.
     </>,   
   },
   {
     img: img16,
-    title: 'Ela que é dona do meu coração',
+    title: 'Nhact',
     text: <>
-      <p>E não é exagero nenhum dizer que você foi a melhor coisa que me aconteceu.</p>
-      <p>Sorte a minha ter te encontrado.</p>
+      Só nhact mesmo
     </>,   
   },
   {
     img: img17,
     title: 'Ela que tem o sorriso mais lindo',
     text: <>
-      <p>Eu poderia facilmente passar horas só te olhando sorrir.</p>
-      <p>E é o sorriso que eu quero ver todos os dias.</p>
+      Eu poderia facilmente passar horas só te olhando sorrir.
+      E é o sorriso que eu quero ver todos os dias.
     </>,   
   },
   {
     img: img18,
-    title: 'Ela que topa tudo',
+    title: 'Que tetéia boa sô!',
     text: <>
-      <p>A melhor companheira possível para fazer as coisas mais normais...</p>
-      <p>E as mais doidas também!</p>
+      Ficar horas desenhando corações em uma camisa rosa só para eu combinar com ela? SIM!
     </>,   
   },
   {
     img: img19,
-    title: 'Ela que é poesia sem rima',
+    title: 'Atiradora, Pistoleira e Flecheira',
     text: <>
-      <p>Tão linda, tão única, tão perfeitamente especial.</p>
-      <p>Uma verdadeira obra de arte em movimento.</p>
+      Não imaginava que a flechada do cupido seria tão... literal.
     </>,   
   },
   {
     img: img20,
-    title: 'Ela que faz meu mundo girar',
+    title: 'NO HABLO INGLES',
     text: <>
-      <p>Ou melhor, que faz ele parar quando a gente tá junto.</p>
-      <p>O tempo perde o sentido.</p>
+      
     </>,   
   },
   {
     img: img21,
-    title: 'Ela que tem charme natural',
+    title: 'RISOS HISTÉRICOS',
     text: <>
-      <p>Até quando não tenta (ou jura que não tentou), você simplesmente domina o ambiente.</p>
+      E quem diria que o riso histérico mais gostoso seria na porra do VELOCICOSTER
     </>,   
   },
   {
     img: img22,
-    title: 'Ela que é puro carinho',
+    title: 'Bunny',
     text: <>
-      <p>A delicadeza e o amor que você coloca em tudo me deixam admirado sempre.</p>
-      <p>Coração gigante.</p>
+      
     </>,   
   },
   {
     img: img23,
-    title: 'Ela que é a razão de tudo',
+    title: 'Galãs',
     text: <>
-      <p>A razão dos meus melhores sorrisos.</p>
-      <p>Feliz dia da mulher para a mulher da minha vida!</p>
-      <p>Te amo! 💜</p>
+      Não tem como ficar feio numa foto com essa maravilhosa.
     </>,   
   },
   {
     img: img24,
     title: 'Ela que tem os melhores momentos',
     text: <>
-      <p>Aqueles instantes únicos que a gente guarda para sempre.</p>
-      <p>Cada momento com você é uma nova aventura.</p>
+      Aqueles instantes únicos que a gente guarda para sempre.
+      Cada momento com você é uma nova aventura.
     </>,   
   },
   {
     img: img25,
-    title: 'Ela que é o meu porto seguro',
+    title: 'Ela que me faz querer viver mais',
     text: <>
-      <p>Onde eu encontro paz no meio da loucura do dia a dia.</p>
-      <p>Para sempre minha pessoa favorita.</p>
+      É com você que eu quero conhecer os lugares do mundo, e me perder na vastidão do espaço.
     </>,   
   }
 ];

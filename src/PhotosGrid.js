@@ -171,6 +171,7 @@ export default function PhotosGrid() {
                   loading="lazy"
                   style={{
                     display: 'block',
+                    minHeight: '45vh',
                     maxHeight: '45vh',
                     maxWidth: '100%',
                     objectFit: 'contain',

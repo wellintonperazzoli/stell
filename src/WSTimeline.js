@@ -6,7 +6,7 @@ import TimelineConnector from '@mui/lab/TimelineConnector';
 import TimelineContent from '@mui/lab/TimelineContent';
 import TimelineDot from '@mui/lab/TimelineDot';
 
-function App() {
+ const WSTimeline = () => {
   return (
     <Timeline>
       <TimelineItem>
@@ -33,4 +33,4 @@ function App() {
   );
 }
 
-export default App;
+export default WSTimeline;

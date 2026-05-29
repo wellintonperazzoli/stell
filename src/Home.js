@@ -23,7 +23,7 @@ const Home = () => {
         boxShadow: '0 8px 32px rgba(123, 31, 162, 0.2)'
       }}>
         <Typography variant="h4" component="h1" gutterBottom className="title-text" sx={{ mb: 4 }}>
-          Momentos Especiais 💜
+          StellStell 💜 WellWell
         </Typography>
         
         <Box sx={{ display: 'flex', flexDirection: 'column', gap: 3 }}>
@@ -72,6 +72,29 @@ const Home = () => {
           >
             Dia dos Namorados 2026
           </Button>
+
+          {/* <Button 
+            component={Link} 
+            to="/timeline" 
+            variant="contained" 
+            size="large"
+            sx={{
+              background: 'linear-gradient(45deg, #6a1b9a, #8e24aa)',
+              color: 'white',
+              borderRadius: '24px',
+              padding: '12px 24px',
+              fontWeight: 'bold',
+              textTransform: 'none',
+              fontSize: '1.1rem',
+              boxShadow: '0 4px 10px rgba(106, 27, 154, 0.4)',
+              '&:hover': {
+                background: 'linear-gradient(45deg, #4a148c, #7b1fa2)',
+                transform: 'translateY(-2px)'
+              }
+            }}
+          >
+            Timeline
+          </Button> */}
         </Box>
       </Paper>
     </Box>
